@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_hint">Github user name</string>
+    <string name="user_show_blog">Show user blog</string>
+    <string name="user_list_repos">List user repos</string>
+</resources>
