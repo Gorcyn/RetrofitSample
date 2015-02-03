@@ -8,7 +8,7 @@ This is a sample usage of [Retrofit][1] used with [OkHttp][2] and [GSON][3].
 License
 -------
 
-    Copyright 2013 Ludovic Garcia
+    Copyright 2015 Ludovic Garcia
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
